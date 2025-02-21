@@ -1,6 +1,6 @@
 # Data-Analysis-Laptops
 
-Complete Data Analysis problem, including:
+Complete Data Analysis and Machine Learning problem, including:
 
 - Importing and Understanding the Dataset
 - Data Wrangling:
